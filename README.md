@@ -37,4 +37,4 @@
 )
 
 # my GitHub stats
-[![shinnh2's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnh2&show_icons=true&bg_color=9d5425&title_color=f4d642&text_color=f7f1ab&icon_color=f4d642)](https://github.com/shinnh2/github-readme-stats)
+![shinnh2's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnh2&show_icons=true&bg_color=9d5425&title_color=f4d642&text_color=f7f1ab&icon_color=f4d642)
