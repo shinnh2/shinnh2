@@ -4,7 +4,7 @@
 <!-- -Main -->
 # Hello!👋
 안녕하세요, 프론트엔드 개발자 신나현입니다.
-한창 구직중입니다.
+
 
 #### CONTACT
 <!-- <a href="https://velog.io/@shinnh2" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=121212"/></a> <br/> -->
