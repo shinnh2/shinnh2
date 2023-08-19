@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=f7f1ab&height=120&section=header&text=SHINNH2s%20render&fontSize=48)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=f7f1ab&height=150&animation=twinkling&desc=welcomt%20to%20my%20profile&section=header&text=SHINNH2s%20render&fontSize=40&fontColor=74312d)
+
 
 ### Hi there 👋
 
