@@ -31,7 +31,7 @@
 #### 개인 프로젝트 및 실습 경험 있음
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000"/></a>
 
-# Git Repository
+# Project Git Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codestates-seb&repo=seb41_main_033&title_color=9d5425&text_color=353121&icon_color=f4d642)](https://github.com/codestates-seb/seb41_main_033)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=4F4-Association&repo=alte-study-1st&title_color=9d5425&text_color=353121&icon_color=f4d642)](https://github.com/4F4-Association/alte-study-1st
 )
