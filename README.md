@@ -3,7 +3,11 @@
 
 <!-- -Main -->
 # Hello!👋
-안녕하세요, 프론트엔드 개발자 신나현입니다.
+안녕하세요, 프론트엔드 개발자 신나현입니다.<br/>
+가장 최근의 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고,<br/>
+현재 JBaccount 프로젝트를 진행중입니다.
+
+
 
 
 #### CONTACT
@@ -15,6 +19,7 @@
 #### NOW
 - 🌱 I’m currently learning ... Typescript
 - 👯 I’m currently studying with [4F4](https://github.com/4F4-Association) ...
+- 😺 I'm currently doing the project JBaccount ... 
 
 # Skill Stack
 #### 실무경험 있음
