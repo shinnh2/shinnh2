@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=f7f1ab&height=150&animation=twinkling&text=SHINNH2's&desc=welcomt%20to%20my%20profile&section=header&descAlignY=70&fontAlignY=45&fontSize=40&fontColor=9d5425)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=fce326&height=150&animation=twinkling&text=SHINNH2's&desc=welcomt%20to%20my%20profile&section=header&descAlignY=70&fontAlignY=45&fontSize=40&fontColor=3e3c3b)
 
 <!-- -Main -->
 # Hello!👋
@@ -13,8 +13,8 @@
 #### CONTACT
 <!-- <a href="https://velog.io/@shinnh2" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=121212"/></a> <br/> -->
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/nahyeon.shin9@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=121212"/></a> <br/> -->
-<a href="https://velog.io/@shinnh2" target="_blank"><img src="https://img.shields.io/badge/velog-f7f1ab?style=flat-square&logo=velog&logoColor=9d5425"/></a> <br/>
-<img src="https://img.shields.io/badge/nahyeon.shin9@gmail.com-f7f1ab?style=flat-square&logo=gmail&logoColor=9d5425"/>
+<a href="https://velog.io/@shinnh2" target="_blank"><img src="https://img.shields.io/badge/velog-fce326?style=flat-square&logo=velog&logoColor=3e3c3b"/></a> <br/>
+<img src="https://img.shields.io/badge/nahyeon.shin9@gmail.com-fce326?style=flat-square&logo=gmail&logoColor=3e3c3b"/>
 
 #### NOW
 - 🌱 I’m currently learning ... Typescript
@@ -37,9 +37,9 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000"/></a>
 
 # Project Git Repository
-[![Readme Card](https://github-readme-stats-zeta-five-72.vercel.app/api/pin/?username=codestates-seb&repo=seb41_main_033&title_color=9d5425&text_color=353121&icon_color=f4d642)](https://github.com/codestates-seb/seb41_main_033)
-[![Readme Card](https://github-readme-stats-zeta-five-72.vercel.app/api/pin/?username=4F4-Association&repo=alte-study-1st&title_color=9d5425&text_color=353121&icon_color=f4d642)](https://github.com/4F4-Association/alte-study-1st
+[![Readme Card](https://github-readme-stats-zeta-five-72.vercel.app/api/pin/?username=codestates-seb&repo=seb41_main_033&title_color=f06c94&text_color=3e3c3b&icon_color=fce326)](https://github.com/codestates-seb/seb41_main_033)
+[![Readme Card](https://github-readme-stats-zeta-five-72.vercel.app/api/pin/?username=4F4-Association&repo=alte-study-1st&title_color=f06c94&text_color=3e3c3b&icon_color=fce326)](https://github.com/4F4-Association/alte-study-1st
 )
 
 # my GitHub stats
-![shinnh2's GitHub stats](https://github-readme-stats-zeta-five-72.vercel.app/api?username=shinnh2&show_icons=true&bg_color=9d5425&title_color=f4d642&text_color=f7f1ab&icon_color=f4d642)
+![shinnh2's GitHub stats](https://github-readme-stats-zeta-five-72.vercel.app/api?username=shinnh2&show_icons=true&bg_color=3e3c3b&title_color=fce326&text_color=43d5fa&icon_color=f06c94)
