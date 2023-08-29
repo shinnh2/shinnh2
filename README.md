@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=fce326&height=150&animation=twinkling&text=SHINNH2's&desc=welcomt%20to%20my%20profile&section=header&descAlignY=70&fontAlignY=45&fontSize=40&fontColor=3e3c3b)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=fce326&height=150&animation=twinkling&text=SHINNH2's&desc=welcome%20to%20my%20profile&section=header&descAlignY=70&fontAlignY=45&fontSize=40&fontColor=3e3c3b)
 
 <!-- -Main -->
 # Hello!👋 
