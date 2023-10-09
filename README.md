@@ -8,11 +8,11 @@
 가장 최근의 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고,<br/>
 현재 JBaccount 프로젝트를 진행중입니다.
 - **Study:**
-알테스터디 1기를 마치고 수료한 멤버들과 함께 취업스터디를 운영하며 함께 참여하고 있습니다.
+알테스터디 1기를 마치고 취업스터디도 무사히 수료한 상태입니다.
 Typescript를 집중적으로 공부중이며 배운 내용을 토대로 미니 프로젝트를 만들어보는 중입니다.
 - **Personality:**
 제 성격은 밝고 긍정적이어서 저와 함께 프로젝트를 하시는 분들은 즐거운 분위기에서 프로젝트를 하실 수 있습니다.
-MBTI는 ENTJ로 공감을 많이 해주는 T, 추진력이 있는 극J 입니다.
+MBTI는 ENTJ로 공감을 많이 해주는 T, 추진력이 있는 J 입니다.
 
 ### CONTACT
 <!-- <a href="https://velog.io/@shinnh2" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=121212"/></a> <br/> -->
