@@ -3,10 +3,10 @@
 
 <!-- -Main -->
 # Hello!👋 
-안녕하세요, 프론트엔드 개발자 신나현입니다.<br/>
+안녕하세요, 신나현입니다.<br/>
 - **Project:**
-가장 최근의 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고,<br/>
-현재 JBaccount 프로젝트를 진행중입니다.
+가장 최근 완료한 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고 프론트엔드로 참여했습니다.<br/>
+현재 JBaccount 프로젝트를 진행중이며 프론트엔드로 참여하고 있습니다.
 - **Study:**
 알테스터디 1기를 마치고 취업스터디도 무사히 수료한 상태입니다.
 Typescript를 집중적으로 공부중이며 배운 내용을 토대로 미니 프로젝트를 만들어보는 중입니다.
@@ -34,7 +34,7 @@ MBTI는 ENTJ로 공감을 많이 해주는 T, 추진력이 있는 J 입니다.
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000"/></a>
 
-#### 개인 프로젝트 및 실습 경험 있음: 
+### 개인 프로젝트 및 실습 경험 있음: 
 기본 개념 학습 후 개인 프로젝트 진행 <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=000"/></a>
 
