@@ -5,7 +5,7 @@
 # Hello!👋 
 안녕하세요, 신나현입니다.<br/>
 - **Project:**
-포트폴리오 사이트를 깃헙으로 만들어 배포중입니다. [바로가기](https://shinnh2.github.io/portfolio_snh/)
+포트폴리오 사이트를 깃헙으로 만들어 배포중입니다. [바로가기](https://shinnh2.github.io/portfolio_snh/)<br/>
 가장 최근 완료한 협업 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고 프론트엔드로 참여했습니다.<br/>
 현재 JBaccount 프로젝트를 프론트엔드로 참여하고 있습니다.
 - **Study:**
