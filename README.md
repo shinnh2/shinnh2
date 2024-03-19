@@ -40,5 +40,5 @@ MBTI는 ENTJ로 공감을 많이 해주는 T, 추진력이 있는 J 입니다.
 
 # Project Git Repository
 - 가장 최근 완료한 프론트엔드+백엔드 협업 프로젝트: [GAMETO](https://github.com/codestates-seb/seb41_main_033)
-- 가장 최근 완료한 스터디: [알테스터디 1기](https://github.com/4F4-Association/alte-study-1st)
+- 가장 최근 완료한 스터디: 취뽀스터디, [알테스터디 1기](https://github.com/4F4-Association/alte-study-1st)
 
