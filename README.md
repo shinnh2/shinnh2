@@ -9,7 +9,7 @@
 가장 최근 완료한 협업 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고 프론트엔드로 참여했습니다.<br/>
 현재 JBaccount 프로젝트를 프론트엔드로 참여하고 있습니다.
 - **Study:**
-Typescript를 집중적으로 공부중이며 배운 내용을 토대로 프로젝트를 만드는 중입니다. 
+Typescript를 집중적으로 공부중이며 배운 내용을 토대로 프로젝트를 만드는 중입니다. [JBaccount](https://github.com/ge0nmo/JBaccount)
 - **Personality:**
 제 성격은 밝고 긍정적이어서 저와 함께 프로젝트를 하시는 분들은 즐거운 분위기에서 프로젝트를 하실 수 있습니다.
 MBTI는 ENTJ로 공감을 많이 해주는 T, 추진력이 있는 J 입니다.
