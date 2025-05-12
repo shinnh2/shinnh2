@@ -6,12 +6,12 @@
 안녕하세요, 신나현입니다.<br/>
 - **Project:**
 포트폴리오 사이트를 깃헙으로 만들어 배포중입니다. [바로가기](https://shinnh2.github.io/portfolio_snh/)<br/>
-가장 최근 완료한 협업 프로젝트는 [GAMETO](https://github.com/codestates-seb/seb41_main_033)이고 프론트엔드로 참여했습니다.<br/>
-현재 JBaccount 프로젝트를 프론트엔드로 참여하고 있습니다.
+가장 최근 완료한 협업 프로젝트는 [cpayusin](https://github.com/shinnh2/cpayusin)이고 프론트엔드로 참여했습니다.<br/>
+최근 에어비엔비 클론사이트를 퍼블리싱했습니다. [clone_airbnb](https://github.com/shinnh2/clone_airbnb/tree/main)
 - **Study:**
-Typescript를 집중적으로 공부중이며 배운 내용을 토대로 프로젝트를 만드는 중입니다. [JBaccount](https://github.com/ge0nmo/JBaccount)
+실습과 함께 다시 웹 퍼블리싱과 JS를 집중적으로 복습하고 있습니다. 그리고 스터디를 통해 블로그를 옮겨가며 글을 쓰고 있습니다.
 - **Personality:**
-제 성격은 밝고 긍정적이어서 저와 함께 프로젝트를 하시는 분들은 즐거운 분위기에서 프로젝트를 하실 수 있습니다.
+제 성격은 밝고 긍정적이어서 저와 함께 프로젝트를 하시는 분들은 즐거운 분위기에서 프로젝트를 하실 수 있습니다.<br/>
 MBTI는 ENTJ로 공감을 많이 해주는 T, 추진력이 있는 J 입니다.
 
 ### CONTACT
