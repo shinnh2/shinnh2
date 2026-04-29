@@ -49,7 +49,7 @@ SBTI는 ATM-er입니다. (https://sbti-test.com/ko/?result=4656643565354240)
 <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GPT-000?style=for-the-badge&logo=gpt&logoColor=fff"/></a>
 <br/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/codex-000?style=for-the-badge&logo=claude&logoColor=fff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/codex-000?style=for-the-badge&logo=codex&logoColor=fff"/></a>
 <br/>
 
 
