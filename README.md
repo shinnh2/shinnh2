@@ -10,8 +10,8 @@
   - 독서 기록 앱 Reading Simulator: [Read-Simulator](https://github.com/shinnh2/read-simulator)
   - 포케덱스 앱 [pokedex-ddalkak](https://github.com/shinnh2/pokedex-ddalkak)
 - **Study:**
-AI 프롬프트, skill.md 등의 여러 사례를 살펴보며 알아가는 중입니다. AI를 활용해 여러 앱을 이것저것 만들어보는 재미에 빠졌습니다.
-<br/>next js 튜토리얼을 해보며 익숙해지고 있습니다.
+AI 프롬프트, skill.md 등의 여러 사례를 살펴보며 알아가는 중입니다. AI를 활용해 여러 앱을 이것저것 만들어보는 재미에 빠졌습니다. <br/>
+[next js App Router 튜토리얼](https://github.com/shinnh2/my-next-js-tutorial)을 해보며 학습했습니다. 
 - **Personality:**
 SBTI는 [ATM-er](https://sbti-test.com/ko/?result=4656643565354240)입니다. 
 사람들과 친하게 지내고 싶어서 ENFJ가 되가는 것 같습니다. 하지만 평소 ENTJ가 나옵니다.
