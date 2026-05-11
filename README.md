@@ -5,8 +5,10 @@
 # Hello!👋 
 안녕하세요, 신나현입니다.<br/>
 - **Project:**
-퍼블리싱을 하며 일하고 있습니다. 진행하는 프로젝트는 주로 vue나 react+typescript 환경입니다.
-개인적으로는 최근 독서 기록 앱을 제작했습니다. [Read-Simulator](https://github.com/shinnh2/read-simulator)
+퍼블리싱을 하며 일하고 있습니다. 진행하는 프로젝트는 주로 vue나 react+typescript 환경입니다. <br/>
+최근 개인적으로 작업한 프로젝트는:
+  - 독서 기록 앱 Reading Simulator: [Read-Simulator](https://github.com/shinnh2/read-simulator)
+  - 포케덱스 앱 [pokedex-ddalkak](https://github.com/shinnh2/pokedex-ddalkak)
 - **Study:**
 AI 프롬프트, skill.md 등의 여러 사례를 살펴보며 알아가는 중입니다. AI를 활용해 여러 앱을 이것저것 만들어보는 재미에 빠졌습니다.
 <br/>next js 튜토리얼을 해보며 익숙해지고 있습니다.
