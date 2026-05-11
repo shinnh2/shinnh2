@@ -36,7 +36,6 @@ SBTI는 [ATM-er](https://sbti-test.com/ko/?result=4656643565354240)입니다.
 <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000"/></a>
 
 ### 개인 프로젝트 경험 있음: 
-백엔드, 다른 프론트엔드와 협업하여 요구사항 정의서대로 구현 <br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=fff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=fff"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/next_js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff"/></a>
